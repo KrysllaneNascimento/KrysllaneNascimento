@@ -1,4 +1,4 @@
 ### Oiii! Eu sou a Krysllane
 
-- Atualmente Estudante de Python pelo Entra21 🌱
+- Apaixonada por tecnologia, estou em busca da minha primeira oportunidade como Dev!
 - Tenho conhecimentos em Python, JavaScript, Html e CSS .
